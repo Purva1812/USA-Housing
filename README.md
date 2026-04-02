@@ -97,10 +97,10 @@ Decision Tree R² Score: 0.74
 
 ## 📷 Project Preview
 
-👉 Add your Power BI / Plot screenshots here
+👉 Regression screenshots here
 
 ```
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](https://github.com/Purva1812/USA-Housing/blob/main/assets/USA_Housing.png?raw=true) 
 ```
 
 ---
@@ -116,11 +116,8 @@ USA-Housing-Project/
 ├── notebooks/
 │   └── housing_prediction.ipynb
 │
-├── images/
-│   └── dashboard.png
-│
-├── src/
-│   └── model.py
+├── assets/
+│   └── USA_Housing.png
 │
 └── README.md
 ```
